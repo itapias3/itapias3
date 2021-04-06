@@ -1,0 +1,23 @@
+* {
+    border: 0px;
+    padding: 0;
+}
+.text-asai {
+color:#cb4970 !important;
+}
+
+#main .carousel-inner img{
+max-height: 70vh;
+object-fit: cover;
+}
+
+#footer {
+    background-color:#cb4970 ;
+    color: white;
+    
+}
+#footer a {
+    color: white;
+}
+
+
