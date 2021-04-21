@@ -1,0 +1,58 @@
+#header {
+    background-color: #e46728;
+background-image: linear-gradient(90deg, #e46728 0%, #cf1c0a 50%, #432f2f 100%);
+color: white;
+font-size: 20px;
+}
+
+#header a:hover{
+    color:white;
+}
+
+.carousel-item img{
+height: 700px;
+width: 900px;
+} 
+
+footer{
+    background:rgb(235, 7, 7);
+    color: black;
+    height: 100px;
+    
+    
+}
+footer a{
+    text-decoration: none;
+    font-size: 18px;
+    color:black
+    
+}
+
+footer a:hover{
+    color:blanchedalmond;
+}
+ h5 a{
+    text-decoration:none;
+    color:aliceblue;
+    font-size:32px;
+} 
+
+.carousel-caption > p{
+    font-size: 26px;
+    color:bisque
+}
+
+.row1{
+    padding: 50px;
+    text-align:justify;
+}
+
+h1{
+    text-align:center;
+}
+
+.bueno{
+    justify-content: center;
+    padding:60px;
+}
+
